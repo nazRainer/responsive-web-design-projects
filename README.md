@@ -10,6 +10,18 @@ Complete the five web programming projects below to earn your Responsive Web Des
   <li>Build a Personal Portfolio Webpage</li>
 </ol>
 
+<hr>
+
+<h1>Build a Tribute Page</h1>
+<hr>
+<h1>Build a Survey Form</h1>
+<hr>
+<h1>Build a Product Landing Page</h1>
+<hr>
+<h1>Build a Technical Documentation Page</h1>
+<hr>
+<h1>Build a Personal Portfolio Webpage</h1>
+
 
 
 
