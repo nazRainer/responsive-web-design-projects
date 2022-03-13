@@ -19,6 +19,7 @@ Fulfill the below user stories and get all of the tests to pass. Give it your ow
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
 
+<em>
 User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
 User Story #2: I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page (e.g. "Dr. Norman Borlaug").
@@ -36,7 +37,7 @@ User Story #7: I should see an a element with a corresponding id="tribute-link",
 User Story #8: The img element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 
 User Story #9: The img element should be centered within its parent element.
-
+</em>
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js.
 
 Once you're done, submit the URL to your working project with all its tests passing.
@@ -47,7 +48,7 @@ Objective: Build a CodePen.io app that is functionally similar to this: https://
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-
+<em>
 User Story #1: I can see a title with id="title" in H1 sized text.
 
 User Story #2: I can see a short explanation with id="description" in P sized text.
@@ -79,7 +80,7 @@ User Story #14: Inside the form element, I can select several fields from a seri
 User Story #15: Inside the form element, I am presented with a textarea at the end for additional comments.
 
 User Story #16: Inside the form element, I am presented with a button with id="submit" to submit all my inputs.
-
+</em>
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
@@ -90,7 +91,7 @@ Objective: Build a CodePen.io app that is functionally similar to this: https://
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-
+<em>
 User Story #1: My product landing page should have a header element with a corresponding id="header".
 
 User Story #2: I can see an image within the header element with a corresponding id="header-img". A company logo would make a good image here.
@@ -120,7 +121,7 @@ User Story #13: The navbar should always be at the top of the viewport.
 User Story #14: My product landing page should have at least one media query.
 
 User Story #15: My product landing page should utilize CSS flexbox at least once.
-
+</em>
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
@@ -131,7 +132,7 @@ Objective: Build a CodePen.io app that is functionally similar to this: https://
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-
+<em>
 User Story #1: I can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation).
 
 User Story #2: Within the #main-doc element, I can see several section elements, each with a class of main-section. There should be a minimum of 5.
@@ -161,7 +162,7 @@ User Story #13: When I click on a navbar element, the page should navigate to th
 User Story #14: On regular sized devices (laptops, desktops), the element with id="navbar" should be shown on the left side of the screen and should always be visible to the user.
 
 User Story #15: My Technical Documentation page should use at least one media query.
-
+</em>
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
@@ -172,7 +173,7 @@ Objective: Build a CodePen.io app that is functionally similar to this: https://
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS. You can use Bootstrap or SASS if you choose. Additional technologies (just for example jQuery, React, Angular, or Vue) are not recommended for this project, and using them is at your own risk. Other projects will give you a chance to work with different technology stacks like React. We will accept and try to fix all issue reports that use the suggested technology stack for this project. Happy coding!
-
+<em>
 User Story #1: My portfolio should have a welcome section with an id of welcome-section.
 
 User Story #2: The welcome section should have an h1 element that contains text.
@@ -194,7 +195,7 @@ User Story #9: My portfolio should have at least one media query.
 User Story #10: The height of the welcome section should be equal to the height of the viewport.
 
 User Story #11: The navbar should always be at the top of the viewport.
-
+</em>
 You can build your project by using this CodePen template and clicking Save to create your own pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 
 Once you're done, submit the URL to your working project with all its tests passing.
