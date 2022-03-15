@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html>
 
+<body>
+    <div>
+        <h1 id="title">Faris Nazrin Survey Form</h1>
+        <hr>
+        <p id="description">Please answer the survey based on your true feeling.</p>
+        <form id="survey-form">
+            <label id="name-label" for="name">Name</label>
+            <input type="text" name="name" id="name" placeholder="Your name..." required />
+            <br>
+            <label id="email-label" for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="Your email..." required />
+            <br>
+            <label id="number-label" for="number">Age</label>
+            <input type="number" name="age" id="number" min="18" max="75" placeholder="Your age..." />
+            <br>
+            <p>Who are you?</p>
+            <select id="dropdown" name="role" required>
+                <option disabled selected value>Please select one</option>
+                <option value="student">Student</option>
+                <option value="fulltimejob">Full Time Job</option>
+                <option value="other">Other</option>
+              </select>
+            <p>Would you recommend Faris Nazrin to a friend?</p>
+            <label>
+                <input name="user-recommend" value="definitely" type="radio"checked/>Definitely
+              </label>
+            <label>
+                <input name="user-recommend" value="yes" type="radio"/>Yes of course
+              </label>
+
+            <p>What would you like about Faris Nazrin?</p>
+            <label>
+                <input name="prefer" value="personality" type="checkbox"/>Personality
+              </label>
+            <label>
+                <input name="prefer" value="goodlook" type="checkbox"/>Good-looking
+              </label>
+            <label>
+                <input name="prefer" value="genius" type="checkbox"/>Genius
+              </label>
+            <label>
+                <input name="prefer" value="everything" type="checkbox"/>Everything
+              </label>
+
+            <p>Any additional comments?</p>
+            <textarea id="comments" name="comment" placeholder="Enter your comment here..."></textarea>
+
+            <button type="submit" id="submit">Submit</button>
+
+        </form>
+    </div>
+</body>
+
+</html>
